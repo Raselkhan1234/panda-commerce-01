@@ -1,0 +1,41 @@
+.orange-bg{background-color:#FEEAE9;
+border-radius:10px;}
+.by-now-button{
+background-image:linear-gradient(to bottom, rgb(255, 122, 244) 0%, rgb(184, 18, 148) 100%);
+color:#fff;
+padding:9px 28px;
+border:none;
+border-radius:10px;
+}
+.carousel-item {
+    padding:10px 30px;
+    border:10px;
+
+}
+
+.pink{
+    color:deeppink;
+}
+.container{
+    margin-bottom:50px;
+}
+.cat1, .cat2, .cat3{
+    border-radius:10px;
+    padding:10px 30px;
+}
+.cat1{
+    background-image:linear-gradient(to right,rgb(230, 153, 10) 0%,rgb(179, 104, 6) 100%);
+}
+.cat2{
+    background-image:linear-gradient(to right,rgb(255, 0, 221) 0%,rgb(143, 10, 121) 100%);
+}
+.cat3{
+    background-image:linear-gradient(to right,rgb(0, 89, 255) 0%,rgb(38, 0, 255) 100%);
+}
+.catagories h2{
+    color:#fff;
+
+}
+.catagories img{
+    width:120px;
+}
